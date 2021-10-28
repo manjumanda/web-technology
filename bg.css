@@ -1,0 +1,17 @@
+p
+{background-color :red; 
+color :black;
+ font-size :30;
+ }
+h2
+{
+background-color :skyblue ;
+color :pink;
+}
+body
+{
+ background-image:url('C:/Users/Admin/Desktop/flower.jpg');
+ background-size:2000px;
+ background-repeat:no-repeat;
+ background-position:center;
+ }
